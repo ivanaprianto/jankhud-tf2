@@ -44,8 +44,8 @@
 	}
 	"Version"
 	{
-		"label"			"JankHUD v1.1.0"
-		"command"		"engine showconsole; echo ====================; echo CHANGELOG; echo -idk i forgot what i updated; echo ===================="
+		"label"			"JankHUD v1.1.1"
+		"command"		"engine showconsole; echo ====================; echo CHANGELOG; echo -new bg and that's it really; echo ===================="
 		"OnlyAtMenu"	"1"
 	}
 	"DemoUIButton"
