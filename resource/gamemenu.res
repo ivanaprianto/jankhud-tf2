@@ -78,8 +78,8 @@
 	}
 	"FriendlyHightowerMode"
 	{
-		"label"			"become friendly for hightower"
-		"command"		"engine sm_friendly"
+		"label"			"open console if you are too lazy to press `"
+		"command"		"engine showconsole; echo why"
 		"OnlyInGame"	"1"
 	}
 	"Hightower2Button"

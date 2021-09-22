@@ -1006,7 +1006,8 @@ Scheme
 			"1"
 			{
 				"name"		"MADE TOMMY"
-				"tall"		"22"
+				"tall"		"14" [$WINDOWS]
+				"tall"		"16" [$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
