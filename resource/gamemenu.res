@@ -44,8 +44,8 @@
 	}
 	"Version"
 	{
-		"label"			"JankHUD v1.1.1"
-		"command"		"engine showconsole; echo ====================; echo CHANGELOG; echo -new bg and that's it really; echo ===================="
+		"label"			"JankHUD v1.1.2"
+		"command"		"engine showconsole; echo ====================; echo CHANGELOG; echo -fixed the fonts in windows and linux with kde plasma desktop environment; echo ===================="
 		"OnlyAtMenu"	"1"
 	}
 	"DemoUIButton"
