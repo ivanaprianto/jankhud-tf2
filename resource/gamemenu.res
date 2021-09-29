@@ -78,8 +78,8 @@
 	}
 	"FriendlyHightowerMode"
 	{
-		"label"			"open console if you are too lazy to press `"
-		"command"		"engine showconsole; echo why"
+		"label"			"what's that invisble people press this to fix"
+		"command"		"engine record fix;stop"
 		"OnlyInGame"	"1"
 	}
 	"Hightower2Button"
