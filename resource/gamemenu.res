@@ -78,7 +78,7 @@
 	}
 	"FriendlyHightowerMode"
 	{
-		"label"			"what's that invisble people press this to fix"
+		"label"			"what's that invisible people press this to fix"
 		"command"		"engine record fix;stop"
 		"OnlyInGame"	"1"
 	}
