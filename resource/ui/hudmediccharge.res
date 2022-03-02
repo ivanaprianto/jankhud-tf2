@@ -111,9 +111,7 @@
 		"fieldName"		"ChargeMeter1"
 		"font"			"Default"
 		"xpos"			"30"
-		"xpos_minmode"			"10"
 		"ypos"			"38"
-		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"19"
 		"tall"			"8"				
@@ -124,6 +122,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"bgcolor_override" "0 0 0 123"
+		"fgcolor_override" "255 255 255 255"
 	}
 
 	"ChargeMeter2"
@@ -132,9 +132,7 @@
 		"fieldName"		"ChargeMeter2"
 		"font"			"Default"
 		"xpos"			"52"
-		"xpos_minmode"			"32"
 		"ypos"			"38"
-		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"19"
 		"tall"			"8"				
@@ -145,6 +143,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"bgcolor_override" "0 0 0 123"
+		"fgcolor_override" "255 255 255 255"
 	}
 
 	"ChargeMeter3"
@@ -153,9 +153,7 @@
 		"fieldName"		"ChargeMeter3"
 		"font"			"Default"
 		"xpos"			"74"
-		"xpos_minmode"			"54"
 		"ypos"			"38"
-		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"19"
 		"tall"			"8"				
@@ -166,6 +164,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"bgcolor_override" "0 0 0 123"
+		"fgcolor_override" "255 255 255 255"
 	}
 
 	"ChargeMeter4"
@@ -174,9 +174,7 @@
 		"fieldName"		"ChargeMeter4"
 		"font"			"Default"
 		"xpos"			"96"
-		"xpos_minmode"			"76"
 		"ypos"			"38"
-		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"19"
 		"tall"			"8"				
@@ -187,6 +185,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"bgcolor_override" "0 0 0 123"
+		"fgcolor_override" "255 255 255 255"
 	}
 	
 	"HealthClusterIcon"
